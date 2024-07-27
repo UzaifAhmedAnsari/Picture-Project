@@ -25,5 +25,5 @@ nextBtn.addEventListener('click', () => {
     updateImage();
 });
 
-// Initialize with the first image
+
 updateImage();
